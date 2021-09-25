@@ -10,10 +10,10 @@ AsBirChat **[Birikim Bilgisayar](http://www.birikimteknoloji.com/)** tarafından
 
 **Özellikleri**
 
-* Tüm kullanıcılar ile haberleşme
-* Smile Gönderimi
-* Link Preview özelliği
-* Dosya Gönderimi
+* Tüm kullanıcılar ile haberleşme.
+* Sohbetlerde Emoji Desteği.
+* Link Preview özelliği.
+* İlerleyen Sürümlere Dosya Gönderimi Özelliği Planlanmaktadır.
 
 ***
 
