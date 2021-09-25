@@ -11,9 +11,9 @@ AsBirChat **[Birikim Bilgisayar](http://www.birikimteknoloji.com/)** tarafından
 **Özellikleri**
 
 * Tüm kullanıcılar ile haberleşme.
-* Sohbetlerde Emoji Desteği.
-* Link Preview özelliği.
-* İlerleyen Sürümlere Dosya Gönderimi Özelliği Planlanmaktadır.
+* Sohbetlerde emoji desteği.
+* Link preview özelliği.
+* İlerleyen sürümlere dosya gönderimi özelliği planlanmaktadır.
 
 ***
 
